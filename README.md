@@ -1,6 +1,9 @@
 # social-icons-with-hover
 Creating unique social share icons helps encourage social media interaction
 
+## Tutorial
+For detailed instruction's, view Solodev's [How to Add Social Share Icons with Unique Hover Effects](https://www.solodev.com/blog/web-design/social/how-to-add-social-share-icons-with-unique-hover-effects.stml) article.
+
 ## Demo
 Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/870evqdb/).
 
@@ -9,12 +12,12 @@ The tutorial contains the following basic HTML markup.
 
 ```
   <div class="col-sm-5 col-md-4 col-lg-3 social-links text-center">
-            <ul class="list-inline mt-5">
-               <li class="list-inline-item"><a href="#"><i class="fa fa-facebook social-icon" aria-hidden="true"></i></a></li>
-               <li class="list-inline-item"><a href="#"><i class="fa fa-twitter social-icon" aria-hidden="true"></i></a></li>
-               <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin social-icon" aria-hidden="true"></i></a></li>
-               <li class="list-inline-item"><a href="#"><i class="fa fa-envelope social-icon" aria-hidden="true"></i></a></li>
-            </ul>
+    <ul class="list-inline mt-5">
+      <li class="list-inline-item"><a href="#"><i class="fa fa-facebook social-icon" aria-hidden="true"></i></a></li>
+      <li class="list-inline-item"><a href="#"><i class="fa fa-twitter social-icon" aria-hidden="true"></i></a></li>
+      <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin social-icon" aria-hidden="true"></i></a></li>
+      <li class="list-inline-item"><a href="#"><i class="fa fa-envelope social-icon" aria-hidden="true"></i></a></li>
+    </ul>
   </div>
 ```
 
